@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-bot (GURU-BOT)",
+  "name": "whatsapp-bot (SHERRY-X)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
@@ -10,10 +10,10 @@
     "DATABASE_URL": {
       "description": "your mongodb database url",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "",
       "required": true,
       "value": ""
     },
@@ -25,27 +25,27 @@
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
     },
      "HKEY": {
-      "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
+      "description": "8d10dce8-64b5-4634-8de7-fffe9714c189",
       "required": true,
       "value": ""
     },
      "HAPP": {
-      "description": "Put the Heroku app name, same as above entered",
+      "description": "mrsherryguru",
       "required": true,
       "value": ""
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
       "required": false,
-      "value": ""
+      "value": "true"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
