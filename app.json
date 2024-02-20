@@ -8,7 +8,7 @@
   "stack": "container",
   "env": {
     "DATABASE_URL": {
-      "description": "your mongodb database url",
+      "description": "mongodb+srv://sherryhere:<password>@cluster0.xye46ht.mongodb.net/",
       "required": false,
       "value": "false"
     },
