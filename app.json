@@ -13,9 +13,9 @@
       "value": "false"
     },
     "SESSION_ID": {
-      "description": "GuruBot~sLcKx0W6",
+      "description": "GuruBot~YCHHQ3HG",
       "required": true,
-      "value": ""
+      "value": "GuruBot~YCHHQ3HG"
     },
     "MODE": {
       "description": "mode public or private",
@@ -28,9 +28,9 @@
       "value": "."
     },
      "HKEY": {
-      "description": "8d10dce8-64b5-4634-8de7-fffe9714c189",
+      "description": "HRKU-fa4c8bfd-6c55-4232-a50b-5367487f4078",
       "required": true,
-      "value": ""
+      "value": "HRKU-fa4c8bfd-6c55-4232-a50b-5367487f4078"
     },
      "HAPP": {
       "description": "mrsherryguru",
